@@ -6,7 +6,7 @@ The content of this repository is intended for the students of the master's prog
 
 The presentations include own material, as well as content from * *An Introduction to Statistical Learning* (James et. al, 2013), and *Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems* (Géron, 2019), among other references. Also, the jupyter notebooks are modifications of the examples in Géron, 2019.
 
-Any use of this material requires proper reference to this repository and the professor who has compiled and created these materials (*Javier Bas, Department of Economic Analysis: Quantitative Economics, Universidad Autónoma de Madrid, Spain*). A contact prior to its use would also be appreciated. 
+Any use of this material requires proper reference to this repository and the professor who has compiled and created these materials (see the CITATION.cff file). A contact prior to its use would also be appreciated. 
 
 ## References
 
