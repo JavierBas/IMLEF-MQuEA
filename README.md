@@ -30,6 +30,7 @@ The content is primarily based on:
 - **James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013).** *An Introduction to Statistical Learning (Vol. 112, p. 18).* Springer, New York.  
 
 These texts provide the conceptual and methodological foundation of the course, complemented with examples and case studies in the context of economics and finance.
+The practi
 
 ---
 
@@ -74,4 +75,4 @@ Content adapted from Aurélien Géron and other authors is used under fair educa
 
 For questions, comments, or additional information, please contact:
 Javier Bas – Universidad Autónoma de Madrid
-📧 Contact details available in the CITATION.cff file.
+javier.bas@uam.es
